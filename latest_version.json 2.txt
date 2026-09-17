@@ -1,5 +1,5 @@
 {
   "version": "1.2.0",
   "download_url": "https://github.com/cryptofinanceticket-svg/Crypto-finance/releases/download/1.2.0/CRYPTO.FLASH.FINANCE.exe",
-  "changelog": "Bug fixes and better user experience 👌"
+  "changelog": "Bug fixes and better user experience 👌 Admin LEGEND FX 😂😁"
 }
